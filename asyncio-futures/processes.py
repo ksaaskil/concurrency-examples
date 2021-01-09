@@ -1,3 +1,4 @@
+"""Multiprocessing example with ProcessPoolExecutor."""
 import asyncio
 import concurrent.futures
 from dataclasses import dataclass
